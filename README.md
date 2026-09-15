@@ -192,7 +192,3 @@ This is where most of the actual engineering effort went, not the DCF math itsel
 EquityLens is produced for educational and research purposes only. It does not constitute investment advice, and neither the tool nor its author is a registered investment adviser, broker-dealer, or research analyst in any jurisdiction. The High / Moderate / Low Conviction labels describe only how the current market price compares to this model's own intrinsic value estimate — they are not buy, sell, or hold recommendations. All data is sourced from `yfinance`; verify anything material against the company's own published financials before relying on it. Past performance is not indicative of future results.
 
 ---
-
-## License
-
-MIT — do what you like with it, just don't represent its output as licensed investment advice.
